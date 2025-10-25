@@ -72,7 +72,7 @@ for (let i = 1; i <= 18; i++) {
   card.className = 'card';
   card.innerHTML = `
     <h2>project ${i}</h2>
-    <p>yousef</p>
+    <p>Ahmed yasser</p>
   `;
   container.appendChild(card);
 }
